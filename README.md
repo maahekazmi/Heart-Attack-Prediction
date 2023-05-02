@@ -1,2 +1,4 @@
 # Heart-Attack-Prediction-
 Predicting Heart Attacks Using Machine Learning Techniques
+Our analysis aims to understand the factors attribute to the likelihood of health attacks. We leveraged the “Health care: Heart attack possibility” dataset from Kaggle  which included fourteen attributes as potential indicators of health attacks. The purpose is to better understand what variables contribute to an increased risk of heart attacks for prevention. Healthcare providers can benefit from this information, and give patients a more precise cardiac exam. We will begin by cleaning the dataset, splitting the data into training and testing sets to determine the model accuracies of multiple classifiers, and ultimately seeing which machine learning model is most accurate. This step will be followed by feature ranking which will determine which variables are prime indicators of heart attacks. The goal will be to create a product that complies with our findings.
+
